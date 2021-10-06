@@ -1,4 +1,4 @@
-# P3
+# Projet 3 - Open Fact Food Database
 To execute the notebooks 
 run: pip install -r requirements.txt in your shell
 
